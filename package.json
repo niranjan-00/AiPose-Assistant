@@ -1,7 +1,7 @@
 {
   "name": "aipose-assistant",
   "private": true,
-  "version": "2.0.1",
+  "version": "2.0.2",
   "type": "module",
   "description": "AiPose Assistant — an AI-powered real-time fitness, exercise form, posture, and pose coaching platform. On-device pose processing with TensorFlow.js + MoveNet.",
   "scripts": {
@@ -44,7 +44,7 @@
     "typescript": "5.9.3",
     "typescript-eslint": "^8.10.0",
     "vite": "^7.3.6",
-    "vite-plugin-pwa": "^0.20.5",
+    "vite-plugin-pwa": "^1.1.0",
     "vite-plugin-singlefile": "2.3.0",
     "vitest": "^5.0.1"
   },
